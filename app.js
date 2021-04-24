@@ -8,7 +8,7 @@ const app = express();
 
 // let items = [];
 // let works = [];
-mongoose.connect("mongodb+srv://admin-Arjun:Arjun@43210@cluster0.shtoh.mongodb.net/todolist", {
+mongoose.connect("", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useFindAndModify: false
